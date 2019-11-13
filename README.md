@@ -1,1 +1,1 @@
-# perspektywy_2019_examples
+# Slides and examples for presentation on the conference https://womenintechsummit.pl
